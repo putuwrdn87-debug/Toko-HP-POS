@@ -38,8 +38,7 @@ Sistem manajemen penjualan untuk toko handphone berbasis web. Dibangun dengan **
 ### Langkah-langkah
 1. **Clone repository**
    ```bash
-   git clone https://github.com/putuwrdn87-debug/Toko-HP-POS.git
-   cd toko-hp-pos
+   git clone [https://github.com/putuwrdn87-debug/Toko-HP-POS]
 
 2. Buat virtual environment (opsional tapi disarankan)
     python -m venv venv
