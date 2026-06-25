@@ -64,5 +64,5 @@ Contoh Penggunaan:
 Author:
 Putu Wardani
 
-Lisensi
+Lisensi:
 Project ini dibuat untuk keperluan portofolio dan pembelajaran. Silakan digunakan dan dikembangkan lebih lanjut.
