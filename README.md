@@ -62,7 +62,9 @@ Contoh Penggunaan:
 5. Buka menu Laba/Rugi → Filter tanggal untuk melihat laporan keuangan.
 
 Author:
+
 Putu Wardani
 
 Lisensi:
+
 Project ini dibuat untuk keperluan portofolio dan pembelajaran. Silakan digunakan dan dikembangkan lebih lanjut.
